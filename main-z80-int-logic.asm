@@ -4,9 +4,9 @@
 ;--------------------------------------------------------
 
 ; I/O Port Definitions
-PORT_ROW:  EQU 01H
-PORT_COL:  EQU 02H
-PORT_KBD:  EQU 03H
+PORT_ROW:  EQU 02H
+PORT_COL:  EQU 03H
+PORT_KBD:  EQU 01H
 
 ; Constants
 SCALE:     EQU 16
